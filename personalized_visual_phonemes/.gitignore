@@ -1,0 +1,4 @@
+.streamlit/secrets.toml
+.voice_clone_smoke.wav
+__pycache__/
+*.pyc

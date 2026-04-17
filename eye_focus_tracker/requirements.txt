@@ -1,0 +1,8 @@
+openai>=2.29.0
+streamlit>=1.55.0
+streamlit-autorefresh>=1.0.1
+numpy>=1.26,<3
+Pillow>=10.0.0
+opencv-python>=4.10.0.84
+mediapipe>=0.10.14
+mss>=9.0.1

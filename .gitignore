@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+personalized_visual_phonemes/smoke_test_outputs/
